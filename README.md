@@ -11,7 +11,7 @@ npm install mongoose
 
 2. cookie_session_auth source code
 a. cookie_session_auth
-app.js
+node app.js
 b. register
 Method: POST
 URL: http://localhost:3000/auth/register
@@ -26,7 +26,7 @@ URL: http://localhost:3000/auth/login
 ![alt text](public/results/login.png)
 
 ## Check in database
-![alt text](cmongoDBlogin.png)
+![alt text](public/results/mongoDBlogin.png)
 
 d. go to profile
 Method: GET
@@ -39,4 +39,4 @@ URL: http://localhost:3000/auth/logout
 ![alt text](public/results/logout.png)
 
 ## Check in database
-![alt text](public/results/logout.png)
+![alt text](public/results/mongoDBlogout.png)
