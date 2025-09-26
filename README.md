@@ -12,6 +12,7 @@ npm install mongoose
 2. cookie_session_auth source code
 a. cookie_session_auth
 node app.js
+
 b. register
 Method: POST
 URL: http://localhost:3000/auth/register
